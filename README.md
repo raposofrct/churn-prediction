@@ -74,17 +74,19 @@ Exited - Indica se o cliente está ou não em Churn.
  
 |       Model Name          |        Média ROI          |      Min ROI      |        Max ROI        |
 |:-------------------------:|:-------------------:|:--------------:|:------------------:|
-| LGBM Classifier                  |  €18039          | €15332       |       €21196        |
+| LGBM Classifier                  |  €19457          | €16794       |       €24478        |
 
 #### Modelo sem AI (Random)
 
 |       Model Name          |        Média ROI          |      Min ROI      |        Max ROI        |
 |:-------------------------:|:-------------------:|:--------------:|:------------------:|
-| Random                  |  €-0.437          | €-0.828      |       €0.0047        |
+| Random                  |  €-109778          | €-207847      |       €1190        |
 
-Vemos que **a empresa sem utilizar o modelo não teria a menor possibilidade de ganhos, o ROI é basicamente zero!**
+Vemos que **a empresa sem utilizar o modelo não teria enorme possibilidade de ter prejuízo, o ROI é majoritariamente negativo!**
 
-**Com esse modelo de machine learning, a TopBank poderá embolsar quase até €22 mil! O que se traduz em mais de 100 mil reais!**
+**Com esse modelo de machine learning, a TopBank poderá embolsar quase até €25 mil! O que se traduz em mais de 100 mil reais!**
+
+**Isso significa um ROI máximo 20x maior para a TopBank, partindo de menos de €1200 para quase €25000!**
 
 <img src="https://i.imgur.com/8XEOlir.png"/>
 
