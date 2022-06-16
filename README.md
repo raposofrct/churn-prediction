@@ -88,7 +88,7 @@ Vemos que **a empresa sem utilizar o modelo não teria enorme possibilidade de t
 
 **Isso significa um ROI máximo 20x maior para a TopBank, partindo de menos de €1200 para quase €25000!**
 
-<img src="https://i.imgur.com/8XEOlir.png"/>
+<img src="https://i.imgur.com/xyZsNCL.png"/>
 
 Esse modelo está disponível na cloud, podendo ser acessado <a href=https://reqbin.com/4puvvq1c target="_blank">aqui</a>
 (É só mudar as variáveis na aba 'Content')
